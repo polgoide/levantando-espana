@@ -720,6 +720,16 @@
       "origen": "España",
       "precio": "€",
       "imagen": "img/the-sangria-spritz.jpg"
+    },
+    {
+      "id": "mietis",
+      "nombre": "Mietis",
+      "web": "https://mietistudio.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Bolsos de piel de diseño propio, hechos a mano en Igualada",
+      "origen": "Igualada, Barcelona",
+      "precio": "€€€",
+      "imagen": "img/mietis.jpg"
     }
   ]
 }
