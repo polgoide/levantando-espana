@@ -35,6 +35,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Laagam](https://laagam.com) | Moda femenina atemporal: bolsos, abrigos y punto | Barcelona | €€€ |
 | [Laia Alen](https://www.laiaalen.com) | Bolsos y punto de colores, horas de trabajo artesanal por pieza | Cataluña | €€€ |
 | [Lantana Atelier](https://www.lantanaatelier.com) | Bikinis reversibles de nailon regenerado, hechos en fábricas familiares españolas | Alicante | €€ |
+| [Mietis](https://mietistudio.com) | Bolsos de piel de diseño propio, hechos a mano en Igualada | Igualada, Barcelona | €€€ |
 | [Milé Design](https://miledesign.es) | Moda femenina con diseño propio y firmas seleccionadas | Palencia | €€ |
 | [Parenzo](https://www.parenzo.es) | Bolsos de piel hechos a mano por artesanos de Ubrique | Ubrique, Cádiz | €€€ |
 | [Romualda](https://romualda.es) | Sombreros reversibles con estampados pintados a mano | Madrid | €€ |
